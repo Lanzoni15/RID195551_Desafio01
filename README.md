@@ -1,2 +1,4 @@
 # RID195551_Desafio01
-Este projeto faz parte do Desafio01 de desenvolvimento de uma Landing Page
+Link do site disponibilizado: https://rid195551-desafio01.netlify.app/
+
+Link da planilha de registro de informações: https://encurtador.com.br/uL29A
